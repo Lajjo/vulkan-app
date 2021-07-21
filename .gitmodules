@@ -1,0 +1,3 @@
+[submodule "external\\vulkan-engine"]
+	path = external\\vulkan-engine
+	url = git@github.com:Lajjo/vulkan-engine.git
